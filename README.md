@@ -1,8 +1,8 @@
 # THE KITE TOOK DAD
 
-![make.fun](https://make.fun/badge/ai-excited-01.svg)
-[![Rank](https://make.fun/badge/ai-excited-01/rank/binasalama12/makefun-ai-excited-01-w3.svg)](https://make.fun/bounty/ai-excited-01)
-[![Reward](https://make.fun/badge/ai-excited-01/reward/binasalama12/makefun-ai-excited-01-w3.svg)](https://make.fun/bounty/ai-excited-01)
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/binasalama12/makefun-ai-excited-01-w3/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/binasalama12/makefun-ai-excited-01-w3/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
 A dad in a yellow shirt and his little girl in pink get swept off the beach by a
 giant rainbow dragon kite at golden hour — both laughing their heads off while
